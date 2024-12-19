@@ -18,7 +18,7 @@ https://www.netlify.com/
 # Instrucciones para ejecutar la aplicación localmente 
 
 1) `Clonar este repositorio `[https://github.com/Ymbossio/dashboard](https://github.com/Ymbossio/dashboard)
-2) Navega al directorio del proyecto `Prueba-Tecnica-Dashboard`.
+2) Navega al directorio del proyecto cd`dashboard`.
 3) Instalar las dependencias con `npm install`.
 4) para correr la aplicación solo basta con poner en la consola `npm run dev`.
 
