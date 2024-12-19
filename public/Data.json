@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "duracion": "5",
+      "estado": "Exitosa",
+      "fecha": "2024-10-10 10:00 AM"
+    },
+    {
+      "id": 2,
+      "duracion": "3",
+      "estado": "Fallida",
+      "fecha": "2024-10-10 11:30 AM"
+    },
+    {
+      "id": 3,
+      "duracion": "8",
+      "estado": "En Proceso",
+      "fecha": "2024-10-10 01:15 PM"
+    },
+    {
+      "id": 4,
+      "duracion": "6",
+      "estado": "Exitosa",
+      "fecha": "2024-10-10 02:00 PM"
+    },
+    {
+      "id": 5,
+      "duracion": "2",
+      "estado": "Fallida",
+      "fecha": "2024-10-10 03:30 PM"
+    },
+    {
+      "id": 6,
+      "duracion": "7",
+      "estado": "En Proceso",
+      "fecha": "2024-10-10 04:45 PM"
+    }
+  ]
+  

@@ -1,0 +1,39 @@
+.card {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 { 
+  font-size: 3.2em;
+  line-height: 1.1;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+
+.read-the-docs {
+  color: #888;
+}
+
+table{
+  border-collapse: collapse;
+  width: 80%;
+  margin-bottom: 1rem;
+  table-layout: fixed;
+}
+
+
+thead, tbody{
+  text-align: center;
+}
+
+
+thead{
+  background-color: rgb(105, 212, 245);
+}
